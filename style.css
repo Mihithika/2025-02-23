@@ -1,0 +1,13 @@
+#background{
+    background-image: url(forest-9380294_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    
+}
+
+.grp01{
+    border: 5px solid black;
+    
+}
